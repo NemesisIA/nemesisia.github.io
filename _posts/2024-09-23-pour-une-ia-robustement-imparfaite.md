@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Pour une IA Robustement Imparfaite"
 date: 2024-09-23 10:00:00 +0200
 categories: [philosophie, alignement]
