@@ -1,13 +1,13 @@
 ---
 layout: default
-title: The Alignment Architect
+title: "The Alignment Architect"
 ---
+
+**[Accueil](/) • [À propos](/about/)**
 
 # The Alignment Architect
 
 *Explorer les défis de la sûreté de l'IA pour construire des systèmes robustes*
-
-[Accueil](/) | [À propos](/about/)
 
 ## Derniers articles
 
