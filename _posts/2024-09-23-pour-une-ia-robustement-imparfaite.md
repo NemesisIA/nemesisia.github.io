@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Pour une IA Robustement Imparfaite"
-date: 2024-09-23 10:00:00 +0200
-categories: [philosophie, alignement]
 ---
 
 Le défi de l'alignement des intelligences artificielles n'est pas, à mon sens, un problème technique que l'on peut résoudre par la seule puissance de calcul. C'est un **problème de conception de systèmes socio-techniques robustes**, qui doivent fonctionner dans un monde imparfait, pour des humains imparfaits.
