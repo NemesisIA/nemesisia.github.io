@@ -2,11 +2,6 @@
 layout: default
 ---
 
-<div class="page-header">
-  <h1>The Alignment Architect</h1>
-  <p>Explorer les défis de la sûreté de l'IA pour construire des systèmes robustes, à l'épreuve des imperfections humaines.</p>
-</div>
-
 <div class="main-content">
   <h2>Derniers articles</h2>
   
