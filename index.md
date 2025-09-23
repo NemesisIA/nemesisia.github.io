@@ -1,16 +1,21 @@
 ---
-layout: home
-title: "The Alignment Architect"
+layout: default
+title: The Alignment Architect
 ---
 
-# Derniers articles
+# The Alignment Architect
+
+*Explorer les défis de la sûreté de l'IA pour construire des systèmes robustes*
+
+## Derniers articles
 
 {% for post in site.posts %}
-## [{{ post.title }}]({{ post.url }})
+### [{{ post.title }}]({{ post.url }})
 *{{ post.date | date: "%d/%m/%Y" }}*
 
 {{ post.excerpt }}
 
 [Lire la suite]({{ post.url }})
+
 ---
 {% endfor %}
